@@ -33,7 +33,10 @@ body {
 	background: rgba(255 255 255 / 40%);
 } 
 .featured-widget.wd-back,.featured-widget{
-	background:  rgba(255 255 255 / 40%);
+	background: transparent;
+    backdrop-filter: none;
+    border: none;
+    padding: 0;
 }
 .bs-blog-post{
 	box-shadow: none;
