@@ -320,7 +320,7 @@ a:hover, a:focus {
     background: var(--bg-color);
 }
 .bs-widget.promo:hover h5 a, .bs-widget.promo h5 a:focus { 
-	background: #f67b56;
+	background: var(--grady-color);
 	color: #fff;
 }
 .bs_model .modal-content {
